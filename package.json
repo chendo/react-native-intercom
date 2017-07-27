@@ -1,6 +1,6 @@
 {
   "name": "react-native-intercom",
-  "version": "6.3.0",
+  "version": "6.3.1",
   "description": "A React Native client for Intercom.io",
   "main": "./lib/IntercomClient.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinycreative/react-native-intercom.git"
+    "url": "git+https://github.com/chendo/react-native-intercom.git"
   },
   "author": "Asa Miller",
   "contributors": [
@@ -27,8 +27,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tinycreative/react-native-intercom/issues"
+    "url": "https://github.com/chendo/react-native-intercom/issues"
   },
-  "homepage": "https://github.com/tinycreative/react-native-intercom",
+  "homepage": "https://github.com/chendo/react-native-intercom",
   "dependencies": {}
 }
